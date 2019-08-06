@@ -1,2 +1,4 @@
-# worker_timemanager
+# RSI TimeManager
 Wordpress plugin for workers time managment.
+
+

@@ -30,3 +30,4 @@ You need to create pages with next shortcodes:
 <img src="http://sk-rsi.ru/img/sc4.png">
 
 <img src="http://sk-rsi.ru/img/sc5.png">
+
